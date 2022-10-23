@@ -14,4 +14,6 @@ A simple script that creates the basic structure of a web project.
 
 To create the basic structure of the project shown above, put the script in the directory where you want to create the project.
 Then launch it:
-> python create_base.py
+```
+python create_base.py
+```
